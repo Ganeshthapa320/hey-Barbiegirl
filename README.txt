@@ -3,7 +3,7 @@ POOKIE LOVE NOTE WEBSITE - VERSION 7
 Extract the ZIP and deploy the contents of this folder to your hosting provider.
 Open index.html to test locally.
 
-The 4-digit on-page PIN is now 3029.
+The 4-digit on-page PIN is now .
 The site includes noindex/nofollow metadata and a robots.txt file to discourage search engines from listing it.
 
 IMPORTANT PRIVACY NOTES
